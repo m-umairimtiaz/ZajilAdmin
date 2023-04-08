@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294912318156",
+    "project_id": "zajiladmin",
+    "storage_bucket": "zajiladmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294912318156:android:93b3b21f81e4b3e9918069",
+        "android_client_info": {
+          "package_name": "com.example.zajiladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294912318156-1en9k3mojqc9ebe9i5aesi6rg8rvjf3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7whqL-6nRVsbGKDW0NKwUEF4BahHaPlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294912318156-1en9k3mojqc9ebe9i5aesi6rg8rvjf3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
